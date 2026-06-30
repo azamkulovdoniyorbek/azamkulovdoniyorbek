@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Doniyorbek 👋
 
-<!--
-**azamkulovdoniyorbek/azamkulovdoniyorbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student from Uzbekistan interested in Computer Science, Competitive Programming, and Technology Entrepreneurship.
 
-Here are some ideas to get you started:
+## 🎯 Current Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Prepare for Informatics Olympiads
+- Improve my problem-solving skills
+- Learn C++ and Data Structures
+- Build software projects
+- Prepare for SAT and IELTS
+
+## 💻 Currently Learning
+
+- Python
+- Competitive Programming
+- Algorithms
+- Mathematics
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/doniyorbek-azamqulov/
+- Email: azamkulovdoniyorbek@gmail.com

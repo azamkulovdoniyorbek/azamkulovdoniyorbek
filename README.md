@@ -1,6 +1,6 @@
 # Hi, I'm Doniyorbek 👋
 
-I'm a high school student from Uzbekistan interested in Computer Science, Competitive Programming, and Technology Entrepreneurship.
+I'm a high school student from Uzbekistan interested in Computer Science and Engineering, Competitive Programming, and Technology Entrepreneurship.
 
 ## 🎯 Current Goals
 
